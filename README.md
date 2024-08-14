@@ -2,7 +2,7 @@
 
 -meu nome é José Guilherme
 
--estou estudando no alura
+-estou estudando na [ALURA](https://www.alura.com.br)
 -estou me desenvolvendo na linguagem javaScript
 -ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
